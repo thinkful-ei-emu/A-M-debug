@@ -1,0 +1,20 @@
+{
+  "name": "A-M-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buggy-scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-emu/A-M-debug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-emu/A-M-debug/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-emu/A-M-debug#readme"
+}
